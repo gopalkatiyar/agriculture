@@ -4,7 +4,7 @@ function Main() {
   return (
     <>
       <div className="flex flex-col justify-center items-center">
-        <div className="bg-black h-[800px] w-full rounded-lg shadow-md bg-cover bg-center">
+        <div className="bg-black h-[600px] w-full rounded-lg shadow-md bg-cover bg-center">
           <div className="w-3/4  h-full mx-auto flex">
             <div className="h-full w-1/2 flex flex-col justify-center items-start text-white">
               <h1 className="text-7xl text-yellow-200 font-bold f1">
