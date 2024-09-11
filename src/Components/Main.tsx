@@ -36,15 +36,15 @@ function Main() {
               <p className={"text-xs"}>Money Back Guarantee</p>
             </div>
           </div>
-          <div className="flex items-center p-4 border-b hrs">
-            <img src={homeCardLogo1} alt="logo" className="w-8 h-8 mr-4" />
+          <div className="flex items-center p-4 border-b hr">
+            <img src={homeCardLogo2} alt="logo" className="w-8 h-8 mr-4" />
             <div className="flex flex-col">
               <h5>Free Shipping</h5>
               <p className={"text-xs"}>On all orders over $99.00</p>
             </div>
           </div>
           <div className="flex items-center p-4">
-            <img src={homeCardLogo1} alt="logo" className="w-8 h-8 mr-4" />
+            <img src={homeCardLogo3} alt="logo" className="w-8 h-8 mr-4" />
             <div className="flex flex-col">
               <h5>Store Locator</h5>
               <p className={"text-xs"}>Find our store near you</p>
