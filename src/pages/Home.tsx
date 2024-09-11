@@ -1,8 +1,10 @@
 import Main from "../Components/Main";
+import Navbar from "../Components/Navbar";
 
 function Home() {
   return (
-    <div>
+	  <div>
+		<Navbar/>
       <Main />
     </div>
   );
